@@ -1,4 +1,4 @@
-# Server Performance Stats
+# Linux Network Diagnostics
 ## Description
 A script to troubleshoot network issues.
 
